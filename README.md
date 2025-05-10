@@ -2,7 +2,7 @@ Portfólio Acadêmico – Luan Galli De Sousa
 
 Esse repositorio tem o intuito de apresentar meu trabalho da matéria de Bootcamp.
 
-Estrutura
+Estrutura:
 
 📁 Bootcamp - Entrega Incial/: Slide, Portifólio pessoal (WORD e PDF) e Código do meu projeto do site.
 
