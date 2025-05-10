@@ -6,10 +6,6 @@ Trabalho realizado para a matéria de Bootcamp.
 
 Nessa pasta contém:
   
-  Apresentação Portifólio (Slide);
-  
-  Portifólio Luan (Descrição breve pessoal e curricular);
-  
-  Código (Projeto criado por mim para meu site, com HTML, Java e CSS);
+  Link Linedin:
 
-  Bootcamp I entrega inicial (Contém todos os links dos documentos anexados, bem como o link para o video do youtube).
+  Bootcamp I entrega Intermediaria (Contém todos os links dos documentos da entrega inicial, porém adicinou a parte do intermediario, como o link para o video do youtube de apresentação do repositório e linkedin).
