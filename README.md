@@ -1,4 +1,5 @@
-Esse repositorio tem o intuito de apresentar meu trabalho da matéria de Bootcamp
+Esse repositorio tem o intuito de apresentar meu trabalho da matéria de Bootcamp.
+
 Olá! Meu nome é Luan Galli, Tenho 23 Anos, nasci na Ceilândia com minha familia e tenho uma namorada incrível, com quem compartilho muitos momentos especiais.
 
 Nesse repositorio contém as seguintes iformações:
