@@ -1,13 +1,13 @@
+Portfólio Acadêmico – Luan Galli De Sousa
 Esse repositorio tem o intuito de apresentar meu trabalho da matéria de Bootcamp.
 
-Olá! Meu nome é Luan Galli, Tenho 23 Anos, nasci na Ceilândia com minha familia e tenho uma namorada incrível, com quem compartilho muitos momentos especiais.
+Estrutura
 
-Nesse repositorio contém as seguintes iformações:
-Bootcamp entrega inicial:
+📁 projetos-academicos/: Projetos desenvolvidos durante as disciplinas.
+📁 projetos-pessoais/: Projetos que desenvolvi por conta própria.
+📁 documentacao/: Slides, instruções e arquivos extras.
 
-  Portfolio profissional: https://docs.google.com/document/d/1NlEaGX6iBg3qineUdmZBLBCOEj0vivCr/edit 
-
-  Google apresentação: https://docs.google.com/presentation/d/11BchJJJQvNL9gU6ykjgcYT7Gkrcrvf2/edit#slide=id.g346007e17b6_0_0 
+Contato
   
   Site: https://l7-galli.github.io/Port-galli/ 
   
