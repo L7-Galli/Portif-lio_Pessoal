@@ -3,19 +3,15 @@ Esse repositorio tem o intuito de apresentar meu trabalho da matéria de Bootcam
 
 Estrutura
 
-📁 projetos-academicos/: Projetos desenvolvidos durante as disciplinas.
+📁 Bootcamp - Entrega Incial/: Slide, Portifólio pessoal (WORD e PDF) e Código do meu projeto do site.
 
-📁 projetos-pessoais/: Projetos que desenvolvi por conta própria.
+📁 Bootcamp - Entrega Intermediaria/: Apresentação do repositório e linkedin.
 
-📁 documentacao/: Slides, instruções e arquivos extras.
 
-Contato
+Contato:
   
   Site: https://l7-galli.github.io/Port-galli/ 
   
-  Vídeo no Youtube:https://youtu.be/AbM7e-KGVxE?si=JtQ82Smk1bRnD3Ap 
+  Vídeo no Youtube:https://youtu.be/AbM7e-KGVxE?si=JtQ82Smk1bRnD3Ap (apresentação do meu Portifólio.) 
 
   Lindin: www.linkedin.com/in/luangalli44
-
-Bootcamp entrega intermédiaria:
-
