@@ -1,13 +1,21 @@
-# Bootcamp - Entrega Incial
+# Entrega Inicial - Meu Primeiro Site
 
-Trabalho realizado para a matéria de Bootcamp.
+Este projeto demonstra minhas habilidades básicas em HTML, CSS e JavaScript.
 
-Nessa pasta contém:
-  
-  Apresentação Portifólio (Slide);
-  
-  Portifólio Luan (Descrição breve pessoal e curricular);
-  
-  Código (Projeto criado por mim para meu site, com HTML, Java e CSS);
+## 📁 Arquivos
 
-  Bootcamp I entrega inicial (Contém todos os links dos documentos anexados, bem como o link para o video do youtube).
+* Apresentação Portifólio (Slide);
+  
+* Portifólio Luan (Descrição breve pessoal e curricular);
+
+## 📁 Arquivo Código
+
+* `index.html`: Página principal do site.
+* `style.css`: Folha de estilo para o layout e design.
+* `script.js`: Código JavaScript para interatividade.
+
+## 🛠️ Tecnologias Usadas
+
+* HTML
+* CSS
+* JavaScript
